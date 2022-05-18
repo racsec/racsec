@@ -1,4 +1,6 @@
--want to learn more about the Decima Engine and in general more about programming.
+WANTS TO LEARN DEICMA ENGINE AND MORE STUFF.
+
+REALLY LIKE TO RECREATE GAMES AND DIVE INTO THEM.
 
 <!---
 racsec/racsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
